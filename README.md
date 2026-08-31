@@ -89,6 +89,8 @@
 
 ## 🔥 GitHub Streak
 
+<br>
+
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antonivares&theme=algolia" alt="GitHub Streak"/>
@@ -107,18 +109,6 @@
 
 </p>
 
-<br>
-
-## 📈 Activity Graph
-
-<br>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Antonivares&bg_color=000000&color=ffffff&line=00E676&point=ffffff&hide_border=true" alt="Antonio's Activity Graph"/>
-
-</p>
-
 ---
 
 <h3 align="center">
@@ -132,3 +122,4 @@
 <p align="center">
     <b>Antonio Olivares</b> · <a href="https://github.com/Antonivares">@Antonivares</a>
 </p>
+
