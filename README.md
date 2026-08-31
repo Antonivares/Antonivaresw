@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
     <img alt="Antonio Olivares" src="./assets/oh hi there.png" width="300"/>
 </div>
@@ -133,4 +132,3 @@
 <p align="center">
     <b>Antonio Olivares</b> · <a href="https://github.com/Antonivares">@Antonivares</a>
 </p>
-```
