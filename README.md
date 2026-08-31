@@ -97,18 +97,6 @@
 
 </p>
 
-<br>
-
-## 🏆 GitHub Trophies
-
-<br>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Antonivares&theme=algolia&no-frame=true&margin-w=10"/>
-
-</p>
-
 ---
 
 <h3 align="center">
@@ -122,4 +110,5 @@
 <p align="center">
     <b>Antonio Olivares</b> · <a href="https://github.com/Antonivares">@Antonivares</a>
 </p>
+
 
