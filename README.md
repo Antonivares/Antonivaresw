@@ -1,7 +1,3 @@
-<div align="center">
-    <img alt="Antonio Olivares" src="./assets/oh hi there.png" width="300"/>
-</div>
-
 <h1 align="center">
     Hi 
     <img src="https://media.giphy.com/media/hvRJLFzcasrR4ia7z/giphy.gif" width="35">
@@ -92,6 +88,5 @@
 <p align="center">
     <b>Antonio Olivares</b> · <a href="https://github.com/Antonivares">@Antonivares</a>
 </p>
-
 
 
