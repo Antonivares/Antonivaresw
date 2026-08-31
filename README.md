@@ -21,7 +21,7 @@
 - 👋 Hi! I'm **Antonio Olivares**
 - 💻 Interested in **Software Development and Technology**
 - 🌐 Learning **Web Development**
-- 🖥️ Interested in **Programming and Computer Networks**
+- 🖥️ Interested in **Programming**
 - 🚀 Currently building my skills through personal and academic projects
 - 🇵🇪 Based in **Peru**
 - ⚡ **Fun Facts:** 🎸 🥊 💻 🎮
@@ -67,24 +67,6 @@
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
 
-### 🌐 Networking
-
-<img src="https://img.icons8.com/color/48/000000/cisco.png" alt="Cisco"/>
-
-<br>
-
-## 📊 GitHub Stats
-
-<br>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Antonivares&show_icons=true&theme=algolia" alt="Antonio's GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonivares&layout=compact&theme=algolia" alt="Top Languages"/>
-
-</p>
-
 <br>
 
 ## 🔥 GitHub Streak
@@ -110,5 +92,6 @@
 <p align="center">
     <b>Antonio Olivares</b> · <a href="https://github.com/Antonivares">@Antonivares</a>
 </p>
+
 
 
